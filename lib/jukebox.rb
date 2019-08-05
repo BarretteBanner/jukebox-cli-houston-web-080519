@@ -1,6 +1,7 @@
 # Add your code here
 def help
   puts "Please enter a command:"
+  puts "Please enter a command"
   puts "I accept the following commands:"
   puts "- help : displays a list of songs you can play" 
   puts "- list : displays a list of songs you can play"
