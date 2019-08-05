@@ -8,6 +8,8 @@ def help
   puts "Please enter a command:"
   puts "Please enter a command:"
   puts "Goodbye"
+  puts "Please enter a command:"
+  puts "Goodbye"
 end
 
 def list(songs)
