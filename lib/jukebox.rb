@@ -6,6 +6,8 @@ def help
   puts "- play : lets you choose a song to play"
   puts "- exit : exits this program"
   puts "Please enter a command:"
+  puts "Please enter a command:"
+  puts "Goodbye"
 end
 
 def list(songs)
